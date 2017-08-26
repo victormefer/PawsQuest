@@ -1,0 +1,8 @@
+1,1,
+
+* 
+ Energy
+ 	Energy
+	TransformComponent 500 500 64 64 0 1 1 
+	RenderComponent img/global/coins/coin_32x32.png
+*

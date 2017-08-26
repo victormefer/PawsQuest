@@ -1,0 +1,139 @@
+2,2,
+
+*
+ Platform
+ 	Platform
+	TransformComponent 2560 1216 320 32 0 1 1
+	RenderComponent img/fase_2/plataform1_320x32.png 1 1 
+	BoxColliderComponent
+	PlatformComponent 256
+*
+*
+ Platform
+ 	Platform
+	TransformComponent 7360 960 128 32 0 1 1
+	RenderComponent img/fase_2/plataform2_128x32.png 1 1 
+	BoxColliderComponent
+	PlatformComponent 192
+*
+*
+ Platform
+ 	Platform
+	TransformComponent 19040 960 320 32 0 1 1
+	RenderComponent img/fase_2/plataform1_320x32.png 1 1
+	BoxColliderComponent
+	PlatformComponent 256
+*
+
+*
+ Platform
+ 	Platform
+	TransformComponent 23552 1152 576 32 0 1 1
+	RenderComponent img/fase_2/plataform1_576x32.png 1 1
+	BoxColliderComponent
+	PlatformComponent 192
+*
+
+*
+ Platform
+ 	Platform
+	TransformComponent 24192 1088 576 32 0 1 1
+	RenderComponent img/fase_2/plataform1_576x32.png 1 1
+	BoxColliderComponent
+	PlatformComponent 128
+*
+*
+ Platform
+ 	Platform
+	TransformComponent 24832 1024 576 32 0 1 1
+	RenderComponent img/fase_2/plataform1_576x32.png 1 1
+	BoxColliderComponent
+	PlatformComponent 256
+*
+
+*
+ Almofada
+ 	Ground
+	TransformComponent 4032 1064 64 24 0 1 1
+	RenderComponent img/fase_2/mola.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Almofada
+ 	Ground
+	TransformComponent 4238 1192 64 24 0 1 1
+	RenderComponent img/fase_2/mola.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Almofada
+ 	Ground
+	TransformComponent 4544 1192 64 24 0 1 1
+	RenderComponent img/fase_2/mola.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Almofada
+ 	Ground
+	TransformComponent 4800 1192 64 24 0 1 1
+	RenderComponent img/fase_2/mola.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Almofada
+ 	Ground
+	TransformComponent 5504 1064 64 24 0 1 1
+	RenderComponent img/fase_2/mola.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Almofada
+ 	Ground
+	TransformComponent 5760 1192 64 24 0 1 1
+	RenderComponent img/fase_2/mola.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Almofada
+ 	Ground
+	TransformComponent 6016 1192 64 24 0 1 1
+	RenderComponent img/fase_2/mola.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Almofada
+ 	Ground
+	TransformComponent 6272 1192 64 24 0 1 1
+	RenderComponent img/fase_2/mola.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Almofada
+ 	Ground
+	TransformComponent 8768 808 64 24 0 1 1
+	RenderComponent img/fase_2/mola.png 1 1
+	BoxColliderComponent
+*
+
+
+* 
+ Fundo
+ 	Layer_3
+	TransformComponent 0 0 4639 576 0 1 1 
+	RenderComponent img/fase_2/cidade_layer3_4639x576.png 1 1
+
+
+* 
+ Fundo
+ 	Layer_2
+	TransformComponent 0 250 8070 844 0 1 1 
+	RenderComponent img/fase_2/cidade_layer2_8070x844.png 1 1
+*

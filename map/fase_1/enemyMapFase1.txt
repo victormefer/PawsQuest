@@ -1,0 +1,238 @@
+1,1,
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 1552 1300 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 1418 1700
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 2294 1300 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 2143 2494
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 5327 1300 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 5225 5750
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Ferret
+ 	Enemy
+	 	TransformComponent 6132 1268 136 76 0 1 1
+	 	RenderComponent img/characters/enemies/ferret_816x76.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_FollowComponent 450
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Ferret
+ 	Enemy
+	 	TransformComponent 8360 1268 136 76 0 1 1
+	 	RenderComponent img/characters/enemies/ferret_816x76.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_FollowComponent 450
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 10310 1300 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 10121 10516
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 11266 1172 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 11212 11768
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 11648 1044 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 11212 11768
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 11430 916 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 11212 11768
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 17982 1300 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 400 250 5
+	 	IA_WalkForwardComponent 250
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Ferret
+ 	Enemy
+	 	TransformComponent 19520 884 136 76 0 1 1
+	 	RenderComponent img/characters/enemies/ferret_816x76.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_FollowComponent 450
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Ferret
+ 	Enemy
+	 	TransformComponent 21136 884 136 76 0 1 1
+	 	RenderComponent img/characters/enemies/ferret_816x76.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 300 250 5
+	 	IA_WalkRightLeftComponent 20986 21398
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 21668 852 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 200 250 5
+	 	IA_WalkRightLeftComponent 21540 21816
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Ferret
+ 	Enemy
+	 	TransformComponent 22052 756 136 76 0 1 1
+	 	RenderComponent img/characters/enemies/ferret_816x76.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 400 250 5
+	 	IA_WalkRightLeftComponent 21906 22163
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 22490 724 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 22310 22697
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Ferret
+ 	Enemy
+	 	TransformComponent 23202 1396 136 76 0 1 1
+	 	RenderComponent img/characters/enemies/ferret_816x76.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 300 250 5
+	 	IA_FollowComponent 400
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Ferret
+ 	Enemy
+	 	TransformComponent 23448 1396 136 76 0 1 1
+	 	RenderComponent img/characters/enemies/ferret_816x76.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_FollowComponent 400
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Pig
+ 	Enemy
+	 	TransformComponent 23868 1428 72 44 0 1 1
+	 	RenderComponent img/characters/enemies/pig_432x44.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 300 250 5
+	 	IA_WalkRightLeftComponent 23673 24044
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Ferret
+ 	Enemy
+	 	TransformComponent 23448 1396 136 76 0 1 1
+	 	RenderComponent img/characters/enemies/ferret_816x76.png 6 0.12
+	 	BoxColliderComponent
+	 	MoveComponent 400 250 5
+	 	IA_WalkForwardComponent 450
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*

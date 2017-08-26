@@ -1,0 +1,209 @@
+1,2,
+
+*
+ Barata
+ 	Enemy
+	 	TransformComponent 1200 1385 136 64 0 1 1
+	 	RenderComponent img/characters/enemies/barata_288x84.png 3 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 1100 1300
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+*
+ Barata
+ 	Enemy
+	 	TransformComponent 1900 1385 136 64 0 1 1
+	 	RenderComponent img/characters/enemies/barata_288x84.png 3 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 1800 2000
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ PomboTopete
+ 	Enemy
+	 	TransformComponent 2700 950 32 32 0 1 1
+	 	RenderComponent img/characters/enemies/pombo_topete_128x32.png 4 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ PomboTopete
+ 	Enemy
+	 	TransformComponent 4500 800 32 32 0 1 1
+	 	RenderComponent img/characters/enemies/pombo_topete_128x32.png 4 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ PomboTopete
+ 	Enemy
+	 	TransformComponent 5275 1050 32 32 0 1 1
+	 	RenderComponent img/characters/enemies/pombo_topete_128x32.png 4 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ PomboTopete
+ 	Enemy
+	 	TransformComponent 6500 850 32 32 0 1 1
+	 	RenderComponent img/characters/enemies/pombo_topete_128x32.png 4 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Barata
+ 	Enemy
+	 	TransformComponent 6850 1000 136 64 0 1 1
+	 	RenderComponent img/characters/enemies/barata_288x84.png 3 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 6800 6900
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Pombo
+ 	Enemy
+	 	TransformComponent 7800 388 32 32 0 1 1
+	 	RenderComponent img/characters/enemies/pombo_104x34.png 4 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+*
+ Pombo
+ 	Enemy
+	 	TransformComponent 7800 768 32 32 0 1 1
+	 	RenderComponent img/characters/enemies/pombo_104x34.png 4 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Pombo
+ 	Enemy
+	 	TransformComponent 12000 508 32 32 0 1 1
+	 	RenderComponent img/characters/enemies/pombo_104x34.png 4 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+
+*
+ Crocodilo
+ 	Enemy
+	 	TransformComponent 18000 1155 136 64 0 0.5 0.5
+	 	RenderComponent img/characters/enemies/crocodilo_928x64.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 17900 18100
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+*
+ Crocodilo
+ 	Enemy
+	 	TransformComponent 18500 1155 136 64 0 0.5 0.5
+	 	RenderComponent img/characters/enemies/crocodilo_928x64.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 18400 18600
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Crocodilo
+ 	Enemy
+	 	TransformComponent 19800 900 136 64 0 0.5 0.5
+	 	RenderComponent img/characters/enemies/crocodilo_928x64.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 19700 19900
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+*
+ Crocodilo
+ 	Enemy
+	 	TransformComponent 20300 900 136 64 0 0.5 0.5
+	 	RenderComponent img/characters/enemies/crocodilo_928x64.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 20200 20500
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+
+*
+ Barata
+ 	Enemy
+	 	TransformComponent 21000 950 136 64 0 1 1
+	 	RenderComponent img/characters/enemies/barata_288x84.png 3 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 20900 21100
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+*
+ Barata
+ 	Enemy
+	 	TransformComponent 21300 950 136 64 0 1 1
+	 	RenderComponent img/characters/enemies/barata_288x84.png 3 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 21200 21400
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Crocodilo
+ 	Enemy
+	 	TransformComponent 22700 1100 136 64 0 0.5 0.5
+	 	RenderComponent img/characters/enemies/crocodilo_928x64.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 22600 22800
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+*
+ Crocodilo
+ 	Enemy
+	 	TransformComponent 23100 1100 136 64 0 0.5 0.5
+	 	RenderComponent img/characters/enemies/crocodilo_928x64.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 250 250 5
+	 	IA_WalkRightLeftComponent 23000 23200
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*

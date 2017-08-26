@@ -1,0 +1,8 @@
+all: main limpa
+
+
+main:
+	g++ src/*.cpp src/*/*.cpp -o main.exe -LC:\SDL\lib -IC:\SDL\include\SDL2 -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf -std=c++11 -g
+
+limpa:
+	rm *.o

@@ -1,0 +1,573 @@
+2,1,
+
+
+*
+ Window
+ 	default_tag
+	TransformComponent 192 576 384 267 0 1 1
+	RenderComponent img/fase_0/janela-01-fundo.png 1 1 
+*
+
+*
+ Caminha
+ 	Ground
+	TransformComponent 192 1040 128 48 0 1 1
+	RenderComponent img/fase_0/caminha_128x48.png 1 1 
+	BoxColliderComponent 
+*
+
+*
+ Cama_fundo
+ 	default_tag
+	TransformComponent 768 832 320 256 0 1 1
+	RenderComponent img/fase_0/Cama-layer1_320x256.png 1 1 
+*
+
+*
+ Plataforminha
+ 	Ground
+	TransformComponent 8020 488 64 16 0 1 1
+	RenderComponent img/fase_0/almofada_64x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Plataforminha
+ 	Ground
+	TransformComponent 1640 740 64 16 0 1 1
+	RenderComponent img/fase_0/almofada_64x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Almofada
+ 	Ground
+	TransformComponent 768 952 320 136 0 1 1
+	RenderComponent img/fase_0/cama-animacao-01.png 3 0.15
+	BoxColliderComponent 
+*
+
+*
+ Estante
+ 	default_tag
+	TransformComponent 10688 512 576 576 0 1 1
+	RenderComponent img/fase_0/Estante_vazia_576x576.png 1 1
+*
+
+*
+ Cacto
+ 	default_tag
+	TransformComponent 448 896 64 192 0 1 1
+	RenderComponent img/fase_0/cacto_fundo_64x192.png 1 1
+*
+
+*
+ Criado
+ 	default_tag
+	TransformComponent 640 960 64 128 0 1 1
+	RenderComponent img/fase_0/criado_mudo_segundo_plano_64x128.png 1 1
+*
+
+*
+ Abajur
+ 	default_tag
+	TransformComponent 640 896 64 64 0 1 1
+	RenderComponent img/fase_0/abajour-02_64x64.png 1 1
+*
+
+*
+ Up_To_Jump
+ 	default_tag
+	TransformComponent 256 832 184 21 0 1 1
+	RenderComponent img/fase_0/space_to_jump_248x20.png 1 1
+*
+
+*
+ Criado
+ 	default_tag
+	TransformComponent 1152 960 64 128 0 1 1
+	RenderComponent img/fase_0/criado_mudo_segundo_plano_64x128.png 1 1
+*
+
+*
+ Abajur4
+ 	default_tag
+	TransformComponent 1152 896 64 64 0 1 1
+	RenderComponent img/fase_0/abajour-02_64x64.png 1 1
+*
+
+*
+ Prateleira_globo
+ 	Ground
+	TransformComponent 1152 704 192 64 0 1 1
+	RenderComponent img/fase_0/Pratileira_globo.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Quadrado_esq
+ 	Ground
+	TransformComponent 1472 576 16 192 0 1 1
+	RenderComponent img/fase_0/plataforma_quadrada_esq_16x192.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Quadrado_baixo
+ 	Ground
+	TransformComponent 1488 752 352 16 0 1 1
+	RenderComponent img/fase_0/plataforma_quadrada_baixo_352x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Quadrado_cima_esq
+ 	Ground
+	TransformComponent 1488 576 128 16 0 1 1
+	RenderComponent img/fase_0/plataforma_quadrada_cima_esq_128x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Quadrado_cima_dir
+ 	Ground
+	TransformComponent 1712 576 128 16 0 1 1
+	RenderComponent img/fase_0/plataforma_quadrada_cima_dir_128x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Quadrado_dir
+ 	Ground
+	TransformComponent 1840 576 16 192 0 1 1
+	RenderComponent img/fase_0/plataforma_quadrada_dir_16x192.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Prateleira_globo
+ 	Ground
+	TransformComponent 1984 704 192 64 0 1 1
+	RenderComponent img/fase_0/Pratileira_globo.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Plataforma
+ 	Ground
+	TransformComponent 2432 687 97 17 0 1 1
+	RenderComponent img/fase_0/plataforma_piso_falso_97x17.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Shift_To_Run
+ 	default_tag
+	TransformComponent 2368 768 209 52 0 1 1
+	RenderComponent img/fase_0/Shift_209x52.png 1 1
+*
+
+*
+ Sofa_fundo
+ 	default_tag
+	TransformComponent 2752 908 448 180 0 1 1
+	RenderComponent img/fase_0/sofa_fundo_448x180.png 1 1
+*
+
+*
+ Sofa_esq
+ 	Ground
+	TransformComponent 2752 984 64 104 0 1 1
+	RenderComponent img/fase_0/sofa_esq_64x104.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Sofa_frente
+ 	Ground
+	TransformComponent 2816 1024 320 64 0 1 1
+	RenderComponent img/fase_0/sofa_frente_320x64.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Sofa_dir
+ 	Ground
+	TransformComponent 3136 984 64 104 0 1 1
+	RenderComponent img/fase_0/sofa_dir_64x104.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Plataforminha
+ 	Ground
+	TransformComponent 2816 752 64 16 0 1 1
+	RenderComponent img/fase_0/almofada_64x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Plataforminha
+ 	Ground
+	TransformComponent 2880 752 64 16 0 1 1
+	RenderComponent img/fase_0/almofada_64x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Plataforminha
+ 	Ground
+	TransformComponent 2944 752 64 16 0 1 1
+	RenderComponent img/fase_0/almofada_64x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Plataforminha
+ 	Ground
+	TransformComponent 3008 752 64 16 0 1 1
+	RenderComponent img/fase_0/almofada_64x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Plataforminha
+ 	Ground
+	TransformComponent 3072 752 64 16 0 1 1
+	RenderComponent img/fase_0/almofada_64x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Estante
+ 	default_tag
+	TransformComponent 3328 512 321 577 0 1 1
+	RenderComponent img/fase_0/estante_fundo_321x577.png 1 1
+*
+
+*
+ Cadeira
+ 	default_tag
+	TransformComponent 4032 832 96 256 0 1 1
+	RenderComponent img/fase_0/cadeira_2_fundo_96x256.png 1 1
+*
+
+*
+ Mesa
+ 	Ground
+	TransformComponent 4160 928 513 160 0 1 1
+	RenderComponent img/fase_0/mesa_513x160.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Cadeira
+ 	default_tag
+	TransformComponent 4224 832 97 257 0 1 1
+	RenderComponent img/fase_0/cadeira-fundo_97x257.png 1 1
+*
+
+*
+ Cadeira
+ 	default_tag
+	TransformComponent 4480 832 97 257 0 1 1
+	RenderComponent img/fase_0/cadeira-fundo_97x257.png 1 1
+*
+
+*
+ Cadeira
+ 	default_tag
+	TransformComponent 4672 832 96 256 0 1 1
+	RenderComponent img/fase_0/cadeira_3_fundo_96x256.png 1 1
+*
+
+*
+ Window
+ 	default_tag
+	TransformComponent 4992 576 384 267 0 1 1
+	RenderComponent img/fase_0/janela-01-fundo.png 1 1 
+*
+
+*
+ Plataforma
+ 	Ground
+	TransformComponent 4352 367 312 17 0 1 1
+	RenderComponent img/fase_0/plataforma_321x17.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Plataforma
+ 	Ground
+	TransformComponent 5056 495 312 17 0 1 1
+	RenderComponent img/fase_0/plataforma_321x17.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Escadinha1
+ 	Pushable
+	TransformComponent 5504 984 96 104 0 1 1
+	RenderComponent img/fase_0/escada1_96x104.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Escadinha2
+ 	Pushable
+	TransformComponent 5600 940 96 148 0 1 1
+	RenderComponent img/fase_0/escada2_96x148.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Push
+ 	default_tag
+	TransformComponent 5504 768 221 52 0 1 1
+	RenderComponent img/fase_0/push_221x52.png 1 1 
+*
+
+*
+ Plataforma
+ 	Ground
+	TransformComponent 5568 623 312 17 0 1 1
+	RenderComponent img/fase_0/plataforma_321x17.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Geladeira
+ 	default_tag
+	TransformComponent 6080 704 193 385 0 1 1
+	RenderComponent img/fase_0/Geladeira_193x385.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Plataforma
+ 	Ground
+	TransformComponent 6464 623 312 17 0 1 1
+	RenderComponent img/fase_0/plataforma_321x17.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Balcao
+ 	Ground
+	TransformComponent 6464 896 201 193 0 1 1
+	RenderComponent img/fase_0/balcao_201x193.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Balcao
+ 	Ground
+	TransformComponent 6656 896 201 193 0 1 1
+	RenderComponent img/fase_0/balcao_201x193.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Balcao
+ 	Ground
+	TransformComponent 6848 896 201 193 0 1 1
+	RenderComponent img/fase_0/balcao_201x193.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Balcao
+ 	Ground
+	TransformComponent 7040 896 201 193 0 1 1
+	RenderComponent img/fase_0/balcao_201x193.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Fogao
+ 	default_tag
+	TransformComponent 7040 836 201 253 0 1 1
+	RenderComponent img/fase_0/Fogao_fundo_201x253.png 1 1 
+*
+
+*
+ Microondas
+ 	default_tag
+	TransformComponent 6592 815 129 81 0 1 1
+	RenderComponent img/fase_0/microondas_fundo_129x81.png 1 1 
+*
+
+*
+ Frutas
+ 	default_tag
+	TransformComponent 6848 831 85 65 0 1 1
+	RenderComponent img/fase_0/frutas_fundo_85x65.png 1 1 
+*
+
+*
+ Platform
+ 	Platform
+	TransformComponent 6912 727 312 17 0 1 1
+	RenderComponent img/fase_0/plataforma_321x17.png 1 1 
+	BoxColliderComponent
+	
+*
+
+*
+ Plataforma
+ 	Platform
+	TransformComponent 6912 467 312 17 0 1 1
+	RenderComponent img/fase_0/plataforma_321x17.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Plataforma
+ 	Platform
+	TransformComponent 7488 239 97 17 0 1 1
+	RenderComponent img/fase_0/plataforma_piso_falso_97x17.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Quadrado_esq
+ 	Ground
+	TransformComponent 7872 320 16 192 0 1 1
+	RenderComponent img/fase_0/plataforma_quadrada_esq_16x192.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Quadrado_baixo
+ 	Ground
+	TransformComponent 7888 496 352 16 0 1 1
+	RenderComponent img/fase_0/plataforma_quadrada_baixo_352x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Quadrado_cima_esq
+ 	Ground
+	TransformComponent 7888 320 128 16 0 1 1
+	RenderComponent img/fase_0/plataforma_quadrada_cima_esq_128x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Quadrado_cima_dir
+ 	Ground
+	TransformComponent 8112 320 128 16 0 1 1
+	RenderComponent img/fase_0/plataforma_quadrada_cima_dir_128x16.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Quadrado_dir
+ 	Ground
+	TransformComponent 8240 320 16 192 0 1 1
+	RenderComponent img/fase_0/plataforma_quadrada_dir_16x192.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Lareira
+ 	default_tag
+	TransformComponent 7872 832 16 192 0 1 1
+	RenderComponent img/fase_0/Lareira-fundo.png 3 0.15
+*
+
+*
+ Plataforma
+ 	Ground
+	TransformComponent 8640 623 312 17 0 1 1
+	RenderComponent img/fase_0/plataforma_321x17.png 1 1 
+	BoxColliderComponent
+*
+
+*
+ Cacto
+ 	default_tag
+	TransformComponent 9920 896 64 192 0 1 1
+	RenderComponent img/fase_0/cacto_fundo_64x192.png 1 1
+*
+
+*
+ Almofadinha
+ 	Pushable
+	TransformComponent 10752 1064 88 24 0 1 1
+	RenderComponent img/fase_0/almofada_88x24.png 1 1
+	BoxColliderComponent
+*
+
+
+*
+ Vase0_0
+ 	Cat_Vase
+	TransformComponent 10860 602 56 80 0 1 1
+	RenderComponent img/fase_0/copo_de_leite_60x88.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Vase0_1
+ 	Cat_Vase
+	TransformComponent 10960 613 65 69 0 1 1
+	RenderComponent img/fase_0/trofeu.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Vase0_2
+ 	Cat_Vase
+	TransformComponent 11080 598 36 84 0 1 1
+	RenderComponent img/fase_0/trofeu_36x84.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Vase1_0
+ 	Cat_Vase
+	TransformComponent 10830 689 80 84 0 1 1
+	RenderComponent img/fase_0/globo.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Vase1_1
+ 	Cat_Vase
+	TransformComponent 10980 717 29 56 0 1 1
+	RenderComponent img/fase_0/vaso_29x56.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Vase1_2
+ 	Cat_Vase
+	TransformComponent 11060 705 65 69 0 1 1
+	RenderComponent img/fase_0/trofeu.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Vase2_0
+ 	Cat_Vase
+	TransformComponent 10860 781 36 84 0 1 1
+	RenderComponent img/fase_0/trofeu_36x84.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Vase2_1
+ 	Cat_Vase
+	TransformComponent 10935 829 116 36 0 1 1
+	RenderComponent img/fase_0/VHS.png 1 1
+	BoxColliderComponent
+*
+
+*
+ Vase2_2
+ 	Cat_Vase
+	TransformComponent 11080 786 56 80 0 1 1
+	RenderComponent img/fase_0/copo_de_leite_60x88.png 1 1
+	BoxColliderComponent
+*

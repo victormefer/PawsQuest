@@ -1,0 +1,104 @@
+1,1,
+
+*
+ Coelho
+ 	Enemy
+	 	TransformComponent 1984 1024 64 64 0 1 1
+	 	RenderComponent img/characters/enemies/coelho_484x72.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 150 150 5
+	 	IA_FollowComponent 350
+	 	HealthComponent 100
+*
+
+*
+ Calopsita
+ 	Enemy
+	 	TransformComponent 2304 704 64 64 0 1 1
+	 	RenderComponent img/characters/enemies/calopsita_fly_768x64.png 12 0.05
+	 	BoxColliderComponent
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Coelho
+ 	Enemy
+	 	TransformComponent 3712 1024 64 64 0 1 1
+	 	RenderComponent img/characters/enemies/coelho_484x72.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 300 300 5
+	 	IA_WalkForwardComponent 300
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Calopsita
+ 	Enemy
+	 	TransformComponent 4800 384 64 64 0 1 1
+	 	RenderComponent img/characters/enemies/calopsita_fly_768x64.png 12 0.1
+	 	BoxColliderComponent
+	 	MoveComponent 300 300 5
+	 	IA_WalkUpDownComponent 184 484
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Calopsita
+ 	Enemy
+	 	TransformComponent 7936 320 64 64 0 1 1
+	 	RenderComponent img/characters/enemies/calopsita_fly_768x64.png 12 0.2
+	 	BoxColliderComponent
+	 	MoveComponent 350 350 5
+	 	IA_WalkRightLeftComponent 7872 8164
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Calopsita
+ 	Enemy
+ 		TransformComponent 7332 382 64 64 0 1 1
+ 		RenderComponent img/characters/enemies/calopsita_fly_768x64.png 12 0.05
+	 	BoxColliderComponent
+	 	HealthComponent 100
+	 	EnemyStateComponent
+*
+
+*
+ Coelho
+ 	Enemy
+ 		TransformComponent 8557 1024 64 64 0 1 1
+ 		RenderComponent img/characters/enemies/coelho_484x72.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 300 300 5
+	 	HealthComponent 100
+	 	IA_WalkForwardComponent 300
+	 	EnemyStateComponent
+*
+
+*
+ Coelho
+ 	Enemy
+ 		TransformComponent 9100 1024 64 64 0 1 1
+ 		RenderComponent img/characters/enemies/coelho_484x72.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 300 300 5
+	 	HealthComponent 100
+	 	IA_WalkForwardComponent 300
+	 	EnemyStateComponent
+*
+
+*
+ Coelho
+ 	Enemy
+ 		TransformComponent 9600 1024 64 64 0 1 1
+ 		RenderComponent img/characters/enemies/coelho_484x72.png 8 0.18
+	 	BoxColliderComponent
+	 	MoveComponent 300 300 5
+	 	HealthComponent 100
+	 	IA_WalkForwardComponent 300
+	 	EnemyStateComponent
+*

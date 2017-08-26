@@ -1,0 +1,432 @@
+1,1,
+
+*
+ Save
+ 	Item
+	TransformComponent 9600 1024 64 64 0 1 1
+	RenderComponent img/global/comida/comida_errada.png 6 1
+	BoxColliderComponent
+*
+
+*
+ Hat
+ 	Item
+	TransformComponent 8768 512 32 32 0 2 2
+	RenderComponent img/global/hat/special_hat_32x32.png 6 0.15
+	BoxColliderComponent
+*
+
+
+*
+ Energy
+ 	Item
+	TransformComponent 1216 640 64 64 0 1 1
+	RenderComponent img/global/osso/osso_256x64.png 4 0.15
+	BoxColliderComponent
+*
+
+
+*
+ Energy
+ 	Item
+	TransformComponent 7936 384 64 64 0 1 1
+	RenderComponent img/global/osso/osso_256x64.png 4 0.15
+	BoxColliderComponent
+*
+*
+ Energy
+ 	Item
+	TransformComponent 8000 384 64 64 0 1 1
+	RenderComponent img/global/osso/osso_256x64.png 4 0.15
+	BoxColliderComponent
+*
+*
+ Energy
+ 	Item
+	TransformComponent 8064 384 64 64 0 1 1
+	RenderComponent img/global/osso/osso_256x64.png 4 0.15
+	BoxColliderComponent
+*
+*
+ Energy
+ 	Item
+	TransformComponent 8128 384 64 64 0 1 1
+	RenderComponent img/global/osso/osso_256x64.png 4 0.15
+	BoxColliderComponent
+*
+
+
+*
+ GoldCoin
+ 	Item
+	TransformComponent 896 832 32 32 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1533 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1597 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1661 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1725 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1789 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+
+
+
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1533 640 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1597 640 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1661 640 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1725 640 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1789 640 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1533 704 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1597 704 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1661 704 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1725 704 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 1789 704 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 2432 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+*
+ SilverCoin
+ 	Item
+	TransformComponent 2816 704 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 2880 704 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 2944 704 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 3008 704 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 3072 704 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+
+
+*
+ GoldCoin
+ 	Item
+	TransformComponent 4352 320 32 32 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ GoldCoin
+ 	Item
+	TransformComponent 4416 320 32 32 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ GoldCoin
+ 	Item
+	TransformComponent 4480 320 32 32 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ GoldCoin
+ 	Item
+	TransformComponent 4544 320 32 32 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ GoldCoin
+ 	Item
+	TransformComponent 4608 320 32 32 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+
+
+
+*
+ SilverCoin
+ 	Item
+	TransformComponent 4992 448 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 5056 448 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 5120 448 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 5184 448 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 5248 448 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+
+
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 5568 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 5632 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 5696 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 5760 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 5824 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+
+
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 6912 640 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 6848 576 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 6784 512 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 6720 448 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 6784 384 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 6848 320 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ BronzeCoin
+ 	Item
+	TransformComponent 6912 256 32 32 0 1 1
+	RenderComponent img/global/coins/bcoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+
+
+*
+ SilverCoin
+ 	Item
+	TransformComponent 8320 192 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 8384 128 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 8448 192 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 8512 256 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 8576 320 32 32 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 0.15
+	BoxColliderComponent
+*
+
+*
+ BossPhase0
+ 	Item
+	TransformComponent 10975 500 64 64 0 15 15
+	BoxColliderComponent
+*

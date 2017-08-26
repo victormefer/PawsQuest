@@ -1,0 +1,394 @@
+2,1,
+
+* 
+ Varal
+ 	default_tag
+	TransformComponent 10144 1088 32 32 0 0.8 0.8
+	RenderComponent img/fase_1/varal_383x320.png 11 0.2
+*
+
+* 
+ Hanger
+ 	Hanger
+	TransformComponent 18976 816 32 32 0 1 1 
+	RenderComponent img/global/Bolinha_pendurar_16x16.png 1 1
+	BoxColliderComponent
+*
+
+* 
+ Hanger
+ 	Hanger
+	TransformComponent 20000 416 32 32 0 1 1 
+	RenderComponent img/global/Bolinha_pendurar_16x16.png 1 1
+	BoxColliderComponent
+*
+
+* 
+ Hanger
+ 	Hanger
+	TransformComponent 20192 416 32 32 0 1 1 
+	RenderComponent img/global/Bolinha_pendurar_16x16.png 1 1
+	BoxColliderComponent
+*
+
+* 
+ Hanger
+ 	Hanger
+	TransformComponent 20384 416 32 32 0 1 1 
+	RenderComponent img/global/Bolinha_pendurar_16x16.png 1 1
+	BoxColliderComponent
+*
+
+* 
+ Hanger
+ 	Hanger
+	TransformComponent 26400 704 32 32 0 1 1 
+	RenderComponent img/global/Bolinha_pendurar_16x16.png 1 1
+	BoxColliderComponent
+*
+
+* 
+ Fundo
+ 	Layer_3
+	TransformComponent 0 0 8064 576 0 1 1 
+	RenderComponent img/fase_1/background_8064x576.png 1 1
+*
+
+* 
+ Fundo2Pedaco1
+ 	Layer_2
+	TransformComponent 0 210 7674 844 0 1 1 
+	RenderComponent img/fase_1/layer_meio_1_7674x844.png 1 1
+*
+
+* 
+ Fundo2Pedaco2
+ 	Layer_2
+	TransformComponent 7674 210 7674 844 0 1 1 
+	RenderComponent img/fase_1/layer_meio_2_7674x844.png 1 1
+*
+
+* 
+ Casa_passarinho
+ 	default_tag
+	TransformComponent 576 1088 64 256 0 1 1 
+	RenderComponent img/fase_1/casa_passarinho_64x256.png 1 1
+*
+
+* 
+ Pedra
+ 	default_tag
+	TransformComponent 640 1280 80 64 0 1 1 
+	RenderComponent img/fase_1/pedra_80x64.png 1 1
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 1344 1312 32 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 1408 1312 32 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Poste
+ 	default_tag
+	TransformComponent 2240 960 128 384 0 1 1 
+	RenderComponent img/fase_1/poste2_128x384.png 1 1
+*
+
+* 
+ Canil
+ 	default_tag
+	TransformComponent 2368 1216 96 128 0 1 1 
+	RenderComponent img/fase_1/canil_c_dog2_96x128.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 3456 928 32 32 0 1 1 
+	RenderComponent img/fase_1/flor3_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 3520 928 32 32 0 1 1 
+	RenderComponent img/fase_1/flor3_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 4096 1312 32 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 4160 1312 32 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 4224 1312 32 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 4288 1312 32 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Cerca
+ 	default_tag
+	TransformComponent 5376 1152 252 192 0 1 1 
+	RenderComponent img/fase_1/cerca_branca_2_252x192.png 1 1
+*
+
+* 
+ Cerca
+ 	default_tag
+	TransformComponent 5628 1152 252 192 0 1 1 
+	RenderComponent img/fase_1/cerca_branca_2_252x192.png 1 1
+*
+
+* 
+ Cerca
+ 	default_tag
+	TransformComponent 5880 1152 252 192 0 1 1 
+	RenderComponent img/fase_1/cerca_branca_2_252x192.png 1 1
+*
+
+* 
+ Cerca
+ 	default_tag
+	TransformComponent 7872 1152 252 192 0 1 1 
+	RenderComponent img/fase_1/cerca_marrom_252x192.png 1 1
+*
+
+
+* 
+ Cerca
+ 	default_tag
+	TransformComponent 11968 1292 252 52 0 1 1 
+	RenderComponent img/fase_1/cerquinha_252x52.png 1 1
+*
+
+* 
+ Fonte
+ 	default_tag
+	TransformComponent 14464 960 320 384 0 1 1 
+	RenderComponent img/fase_1/fountain_320x384.png 10 0.1
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 14400 1312 32 32 0 1 1 
+	RenderComponent img/fase_1/flor3_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 14464 1312 32 32 0 1 1 
+	RenderComponent img/fase_1/flor3_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 14528 1312 32 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 14592 1312 32 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Pedra
+ 	default_tag
+	TransformComponent 14720 1312 64 32 0 1 1 
+	RenderComponent img/fase_1/pedra1_64x32.png 1 1
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 14784 1312 64 32 0 1 1 
+	RenderComponent img/fase_1/flor3_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 14848 1312 64 32 0 1 1 
+	RenderComponent img/fase_1/flor3_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 16448 1184 64 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 16512 1184 64 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 16576 1184 64 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 16640 1184 64 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 17472 1312 64 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 17536 1312 64 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 20928 928 64 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 20992 928 64 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 21056 928 64 32 0 1 1 
+	RenderComponent img/fase_1/flor3_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 21120 928 64 32 0 1 1 
+	RenderComponent img/fase_1/flor3_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 21312 928 64 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 21376 928 64 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 22912 1440 64 32 0 1 1 
+	RenderComponent img/fase_1/flor3_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 22976 1440 64 32 0 1 1 
+	RenderComponent img/fase_1/flor3_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 23040 1440 64 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 23104 1440 64 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 24384 1440 64 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 24448 1440 64 32 0 1 1 
+	RenderComponent img/fase_1/flor2_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 24512 1440 64 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Flor
+ 	default_tag
+	TransformComponent 24576 1440 64 32 0 1 1 
+	RenderComponent img/fase_1/flor1_animada_64x32.png 2 0.3
+*
+
+* 
+ Arvore_esquilo
+ 	default_tag
+	TransformComponent 27392 192 512 512 0 1 1 
+	RenderComponent img/fase_1/arvore_esquilo_512x512.png 1 1
+	BoxColliderComponent 
+*

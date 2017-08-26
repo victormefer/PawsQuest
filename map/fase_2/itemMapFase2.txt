@@ -1,0 +1,153 @@
+1,1,
+
+
+*
+ GoldCoin
+ 	Item
+	TransformComponent 400 1350 64 64 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 1
+	BoxColliderComponent
+*
+*
+ GoldCoin
+ 	Item
+	TransformComponent 500 1300 64 64 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 1
+	BoxColliderComponent
+*
+*
+ GoldCoin
+ 	Item
+	TransformComponent 600 1300 64 64 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 1
+	BoxColliderComponent
+*
+*
+ GoldCoin
+ 	Item
+	TransformComponent 700 1750 64 64 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 1
+	BoxColliderComponent
+*
+
+*
+ BossPhase2
+ 	Item
+	TransformComponent 27500 900 64 64 0 15 15
+	BoxColliderComponent
+*	
+
+*
+ GoldCoin
+ 	Item
+	TransformComponent 4300 1050 64 64 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 1
+	BoxColliderComponent
+*
+*
+ GoldCoin
+ 	Item
+	TransformComponent 4500 1050 64 64 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 1
+	BoxColliderComponent
+*
+*
+ GoldCoin
+ 	Item
+	TransformComponent 4700 1050 64 64 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 1
+	BoxColliderComponent
+*
+
+
+*
+ GoldCoin
+ 	Item
+	TransformComponent 10000 550 64 64 0 1 1
+	RenderComponent img/global/coins/coin_32x32.png 4 1
+	BoxColliderComponent
+*
+
+
+*
+ SilverCoin
+ 	Item
+	TransformComponent 11150 650 64 64 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 1
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 11500 500 64 64 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 1
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 11725 400 64 64 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 1
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 11950 500 64 64 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 1
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 12225 600 64 64 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 1
+	BoxColliderComponent
+*
+*
+ SilverCoin
+ 	Item
+	TransformComponent 12420 725 64 64 0 1 1
+	RenderComponent img/global/coins/scoin_32x32.png 4 1
+	BoxColliderComponent
+*
+
+
+*
+ Save
+ 	Item
+	TransformComponent 3584 984 64 104 0 1 1
+	RenderComponent img/global/save/hidrante_0_64x104.png 1 1
+	BoxColliderComponent
+	HidranteTimerComponent
+*
+
+
+*
+ Save
+ 	Item
+	TransformComponent 10688 728 64 104 0 1 1
+	RenderComponent img/global/save/hidrante_0_64x104.png 1 1
+	BoxColliderComponent
+	HidranteTimerComponent
+*
+
+
+*
+ Save
+ 	Item
+	TransformComponent 17344 1176 64 104 0 1 1
+	RenderComponent img/global/save/hidrante_0_64x104.png 1 1
+	BoxColliderComponent
+	HidranteTimerComponent
+*
+
+
+*
+ Save
+ 	Item
+	TransformComponent 26240 1112 64 104 0 1 1
+	RenderComponent img/global/save/hidrante_0_64x104.png 1 1
+	BoxColliderComponent
+	HidranteTimerComponent
+*
